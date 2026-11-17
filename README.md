@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Big Search
+
+**Embryo Big Search** is Embryo-Zero's fork of [vespa](https://github.com/vespa-engine/vespa), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <!-- Copyright Vespa.ai. Licensed under the terms of the Apache 2.0 license. See LICENSE in the project root. -->
 
 <picture>
